@@ -13,7 +13,7 @@
   },
 
   "server": {
-    "ip": "Sigma-boyz.aternos.me",
+    "ip": "Sigma_Sigma_Boyz.aternos.me",
     "port": 37216,
     "version": "1.12.1"
   },
@@ -36,7 +36,8 @@
       "messages": [
         "Hey there!",
         "Still here ",
-        "Anyone online?"
+        "Anyone online?",
+        "yooo"
       ]
     },
 
