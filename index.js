@@ -55,7 +55,7 @@ function createBot(index, username) {
   try {
     const bot = mineflayer.createBot({
       username,
-      password: config["bot-account"].password || undefined,
+      password: config["bot-account"].password ,
       auth: config["bot-account"].type || 'mojang',
       host,
       port,
