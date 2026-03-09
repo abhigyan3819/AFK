@@ -13,7 +13,7 @@
   },
 
   "server": {
-    "ip": "Sigma_Sigma_Boyz.aternos.me",
+    "ip": "mhonagar.falix.gg",
     "port": 37216,
     "version": "1.12.1"
   },
@@ -34,10 +34,6 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "Hey there!",
-        "Still here ",
-        "Anyone online?",
-        "yooo"
       ]
     },
 
